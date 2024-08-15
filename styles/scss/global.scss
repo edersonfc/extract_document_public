@@ -1,0 +1,52 @@
+@import './variables.scss';
+@import './mixins.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: -webkit-linear-gradient(#B860DB, #CC66CC,#7755DE) !important;
+  color: white;
+}
+
+body, input, button, textarea, p {
+  font: 400 16px 'Open Sans', sans-serif;
+}
+
+h1, h2, h3{
+  color:#02ADE5;
+  font-family: 'Poppins', sans-serif;
+}
+
+h2{
+  font-size: toRem(36);
+  @media (max-width: 767px) {
+    font-size: toRem(26);
+  }
+  @media (max-width: 1080px) {
+    font-size: toRem(26)
+  }
+}
+
+h3{
+  font-size: toRem(18);
+}
+
+p {
+  font-size: toRem(18);
+  @media (max-width: 767px) {
+    font-size: toRem(12) !important;
+  }
+  @media (max-width: 1080px) {
+    font-size: toRem(16) !important;
+  }
+}
+
+label {
+  @media (max-width: 767px) {
+    font-size: toRem(12) !important;
+  }
+}

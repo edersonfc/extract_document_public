@@ -1,0 +1,30 @@
+.superContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+    color:#cad1da;
+    text-align: center;
+}
+
+
+.container {
+    height: 100%;
+    border: solid 0px;
+    align-items: center;
+    justify-content: center; 
+}
+
+.subContainer {
+    background: #339EA0;
+}
+
+.imagemFundo{
+    width: 100%;
+    background: #313541 no-repeat;
+    background-size: 100%;
+}
+
