@@ -13,9 +13,9 @@ cd extract_document_public.git
 ### Instalar
 
 ```bash
-npm run dev
-# or
-yarn dev
+npm install
+# ou
+yarn install
 ```
 
 ### Rodar o Servidor e Aplicação
@@ -23,7 +23,7 @@ yarn dev
 ```bash
 # No terminal rode
 npm run dev
-# or
+# ou
 yarn dev
 ```
 
